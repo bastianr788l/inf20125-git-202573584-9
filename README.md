@@ -1,2 +1,3 @@
-# inf20125-git-202573584-9
-Laboratorio GIT UTFSM 21/10/26
+# Área y perímetro de un círculo
+
+Este repositorio contiene un programa en C que calcula el área y el perímetro de un círculo.
